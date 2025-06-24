@@ -1,45 +1,41 @@
 # Quizzify
 
-**Quizzify** is a sleek and interactive online quiz platform designed to test knowledge through multiple-choice questions. Built with a focus on simplicity, speed, and user engagement — it's perfect for both casual practice and timed quiz challenges.
+![GitHub](https://img.shields.io/github/license/Piyush-1411/Quizzify)
+![GitHub stars](https://img.shields.io/github/stars/Piyush-1411/Quizzify)
+![GitHub forks](https://img.shields.io/github/forks/Piyush-1411/Quizzify)
+
+**Quizzify** is a fast, fun, and responsive quiz web app that lets users test their knowledge with real-time multiple-choice questions from a wide range of categories.
+
+👉 **Live Demo:** [quizzify.vercel.app](https://quizwhiz.vercel.app)  
+*(Note: domain name shows QuizWhiz but this project is titled Quizzify.)*
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 🧠 Multiple-choice quiz questions
-- 🎯 Real-time scoring
-- 🔄 Option to retake quiz
-- 📱 Responsive design – works on all devices
-- 🎨 Smooth and minimal UI with animations
-
----
-
-## 🛠️ Tech Stack
-
-- HTML
-- CSS
-- JavaScript
+- Clean and interactive UI for smooth quiz-taking
+- Questions fetched dynamically from the Open Trivia DB API
+- Multiple-choice format with instant answer feedback
+- Tracks your score as you progress
+- Includes various quiz categories
+- Option to restart quiz at the end
 
 ---
 
-## 📸 Preview
+## 🔧 Tech Stack
 
-![Quiz Screenshot](assets/screenshot.png) <!-- Replace with your screenshot path if needed -->
-
----
-
-## 🌐 Live Demo
-
-[👉 Click here to try Quizzify](https://your-live-link.netlify.app)  
-<!-- Replace with your actual live link -->
+- **HTML** – Page structure
+- **CSS** – Styling and layout
+- **JavaScript** – Quiz logic and interactivity
+- **Open Trivia DB API** – Quiz questions
 
 ---
 
-## 📁 Getting Started
+## 🚀 Getting Started
 
-To run it locally:
+To run the app locally:
 
-```bash
-git clone git@github.com:Piyush-1411/Quizzify.git
-cd Quizzify
-open index.html  # or use Live Server
+1. Clone this repository:
+
+   ```bash
+   git clone git@github.com:Piyush-1411/Quizzify.git
